@@ -1,0 +1,374 @@
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.exe
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csprojAssemblyReference.cache
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.AssemblyInfoInputs.cache
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.AssemblyInfo.cs
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.RazorTargetAssemblyInfo.cache
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\staticwebassets\Invent.StaticWebAssets.Manifest.cache
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\staticwebassets\Invent.StaticWebAssets.xml
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csproj.CopyComplete
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.deps.json
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.runtimeconfig.json
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.runtimeconfig.dev.json
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.pdb
+C:\Users\SUPERMAN\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csproj.CoreCompileInputs.cache
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.dll
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.pdb
+C:\Users\SUPERMAN\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.genruntimeconfig.cache
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.exe
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.deps.json
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.runtimeconfig.json
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.runtimeconfig.dev.json
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.pdb
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csprojAssemblyReference.cache
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.AssemblyInfoInputs.cache
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.AssemblyInfo.cs
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.RazorTargetAssemblyInfo.cache
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csproj.CopyComplete
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\staticwebassets\Invent.StaticWebAssets.Manifest.cache
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\staticwebassets\Invent.StaticWebAssets.xml
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.pdb
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.genruntimeconfig.cache
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Build.Framework.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Build.Tasks.Core.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Build.Utilities.Core.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\NPoco.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\bin\Debug\netcoreapp3.1\NSubstitute.dll
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csproj.CoreCompileInputs.cache
+C:\Users\Jagpreet Kaur\source\repos\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.exe
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.deps.json
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.runtimeconfig.json
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.runtimeconfig.dev.json
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Invent.pdb
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Build.Framework.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Build.Tasks.Core.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Build.Utilities.Core.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\NPoco.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\NSubstitute.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csprojAssemblyReference.cache
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csproj.CoreCompileInputs.cache
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.AssemblyInfoInputs.cache
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.AssemblyInfo.cs
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.RazorTargetAssemblyInfo.cache
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.csproj.CopyComplete
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\staticwebassets\Invent.StaticWebAssets.Manifest.cache
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\staticwebassets\Invent.StaticWebAssets.xml
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.dll
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.pdb
+C:\Users\SUPERMAN\Downloads\Invent\Invent\Invent\obj\Debug\netcoreapp3.1\Invent.genruntimeconfig.cache
